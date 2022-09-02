@@ -1,0 +1,127 @@
+[
+    {
+        "name" : "Afghanistan",
+        "cities" : [
+            "Herat",
+            "Kabul",
+            "Kandahar",
+            "Molah",
+            "Rana",
+            "Shar",
+            "Sharif",
+            "Wazir Akbar Khan"
+          ],
+        "isoCode" : "AF"
+    },
+    {
+        "name" : "Albania",
+        "cities" : [
+            "Elbasan",
+            "Petran",
+            "Pogradec",
+            "Shkoder",
+            "Tirana",
+            "Ura Vajgurore"
+          ],
+        "isoCode" : "AL"
+    },
+    {
+        "name" : "Algeria",
+        "cities" : [
+            "Algiers",
+            "Annaba",
+            "Azazga",
+            "Batna City",
+            "Blida",
+            "Bordj",
+            "Bordj Bou Arreridj",
+            "Bougara",
+            "Cheraga",
+            "Chlef",
+            "Constantine",
+            "Djelfa",
+            "Draria",
+            "El Tarf",
+            "Hussein Dey",
+            "Illizi",
+            "Jijel",
+            "Kouba",
+            "Laghouat",
+            "Oran",
+            "Ouargla",
+            "Oued Smar",
+            "Relizane",
+            "Rouiba",
+            "Saida",
+            "Souk Ahras",
+            "Tamanghasset",
+            "Tiaret",
+            "Tissemsilt",
+            "Tizi",
+            "Tizi Ouzou",
+            "Tlemcen"
+          ],
+        "isoCode" : "AL"
+    },
+    {
+        "name" : "Andorra",
+        "cities" : [
+            "Andorra la Vella",
+            "Canillo",
+            "Encamp",
+            "Engordany",
+            "Escaldes-Engordany",
+            "La Massana",
+            "Llorts",
+            "Ordino",
+            "Santa Coloma",
+            "Sispony",
+            "Soldeu"
+          ],
+        "isoCode" : "AN"
+    },
+    {
+        "name" : "Angola",
+        "cities" : [
+            "Ambriz",
+            "Benguela",
+            "Cabinda",
+            "Cacole",
+            "Camabatela",
+            "Cazeta",
+            "Huambo",
+            "Kuito",
+            "Lobito",
+            "Luanda",
+            "Lubango",
+            "Lucapa",
+            "Lumeje",
+            "Malanje",
+            "Menongue",
+            "Muxaluando",
+            "Namibe",
+            "Ondjiva",
+            "Piri",
+            "Saurimo",
+            "Talatona"
+          ],
+        "isoCode" : "AN"
+    },
+    {
+        "name" : "Andorra",
+        "cities" : [
+            "Andorra la Vella",
+            "Canillo",
+            "Encamp",
+            "Engordany",
+            "Escaldes-Engordany",
+            "La Massana",
+            "Llorts",
+            "Ordino",
+            "Santa Coloma",
+            "Sispony",
+            "Soldeu"
+          ],
+        "isoCode" : "AN"
+    }
+]
